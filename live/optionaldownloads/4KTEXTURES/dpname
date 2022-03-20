@@ -1,0 +1,9 @@
+#name="Project TNT - 4K Textures for Modern GPUs"
+
+#compat=htgpu
+#disable=lwgpu
+#warning=mtgpu
+
+#size=1000000003
+#desc=dpdesc
+#img=cover.png
